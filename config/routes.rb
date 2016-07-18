@@ -1,7 +1,6 @@
 Rails.application.routes.draw do
   
   
-  
   #ROOT URL #index defines method
   root 'pages#index'
 #Define Routes for pages
