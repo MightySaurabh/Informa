@@ -1,6 +1,12 @@
 source 'https://rubygems.org'
 
 
+# we will be using device gem for authentication and user account
+
+gem 'devise'
+
+
+
 #for twitter
 
 gem 'bootstrap-sass', '~> 3.3.6'
